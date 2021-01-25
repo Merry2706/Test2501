@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-  <string name="title">Los geht\'s</string>
-  <string name="akkua">Der Akkub ist fast leer!
- Bitte entferne \"den Akku\" und lade ihn auf.
- Das hilft, die Lebensdauer des Akkus zu verlängern.</string>
-  <string name="forgeta">fahrzeug entfernen%d</string>
-</resources>

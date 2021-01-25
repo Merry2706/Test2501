@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-  <string name="title">C\'est parti</string>
-  <string name="akkua">La batterie est presque vide !
- Retire la \"batterie\" pour la recharger. 
-Cela contribue à augmenter sa durée de vie.</string>
-  <string name="forgeta">Ignorer l\'vehicle en cours%d</string>
-</resources>

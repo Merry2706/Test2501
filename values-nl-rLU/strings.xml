@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-  <string name="title">Begin hier </string>
-  <string name="akkua">De accu is bijna leeg! 
-Verwijder \"de accu\" en laad deze op.
- Daarmee help je de levensduur te verlengen.</string>
-  <string name="forgeta">De vehicle vergeten</string>
-</resources>
